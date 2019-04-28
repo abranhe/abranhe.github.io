@@ -12,7 +12,7 @@ const dom = {
 		return parseInt(color.replace('#', '0x'), 16) > (0xFFFFFF / 2) ? '#333' : '#fff';
 	};
 
-	const url = 'https://repos-abranhe.now.sh/';
+	const url = 'https://latest-repos.abranhe.now.sh/';
 
 	const json = await (await fetch(url)).json();
 
