@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Patua+One&display=swap');
+
+* {
+	font-family: 'Patua One', cursive;
+	font-size: 24px;
+}
+
+div#floating-images {
+	height: 500px;
+	width: 100%;
+}
+
+div .a,
+.b,
+.c,
+.d,
+.e,
+.f,
+.g,
+.h,
+.i,
+.j,
+.k,
+.l,
+.m,
+.n,
+.o,
+.p,
+.q,
+.r,
+.s,
+.t,
+.v,
+.w,
+.x,
+.y,
+.z {
+	position: fixed;
+}
